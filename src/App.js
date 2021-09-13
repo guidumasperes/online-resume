@@ -113,6 +113,7 @@ function Skills() {
             <h3>Cursos</h3>
           </div>
           <div className="job-skill-summary">
+            <p>Learning Git and GitHub - LinkedIn Learning - 2021.</p>
             <p>Node.js Essential Training - LinkedIn Learning - 2021.</p>
             <p>Scrum: The Basics - LinkedIn Learning - 2021.</p>
             <p>Learning REST APIs - LinkedIn Learning - 2021.</p>
@@ -146,6 +147,7 @@ function Footer() {
           <li><a href="https://www.linkedin.com/in/guilherme-dumas-peres/" target="_blank">LinkedIn</a></li>
         </ul>
       </div>
+      <p>This website was made using React.js</p>
     </footer>
   );
 }
